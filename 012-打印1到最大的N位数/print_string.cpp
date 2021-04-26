@@ -47,10 +47,6 @@ public :
             Increment( );
 
         }
-
-
-
-
     }
 
     void PrintNumber( )
